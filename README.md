@@ -7,8 +7,9 @@
   <p> 🔭 I’m currently searching for challenges</p>
   <p> ⚡ Doing projects in JavaScript</p>
   <p>📫 You can reach me on e-mail </p>
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1pedrotomas1@gmail.com)](mailto:1pedrotomas1@gmail.com) <p> or Linkedin </p>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotomas1/)](https://www.linkedin.com/in/pedrotomas1/)
 </div>
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1pedrotomas1@gmail.com)](mailto:1pedrotomas1@gmail.com) <p> or Linkedin </p>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotomas1/)](https://www.linkedin.com/in/pedrotomas1/)
+
 
 <div align="center">
 
