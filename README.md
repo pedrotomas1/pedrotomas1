@@ -9,7 +9,7 @@
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1pedrotomas1@gmail.com)](mailto:1pedrotomas1@gmail.com) or Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotomas1/)](https://www.linkedin.com/in/pedrotomas1/)
 
 
-<div align="center">
+<div align="left">
 
   <h2>Technologies I Know and I'm learning</h2>
   <h4> Backend</h4>
@@ -38,3 +38,7 @@
   </p>
 
 </div>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotomas1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
