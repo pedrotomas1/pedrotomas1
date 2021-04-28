@@ -13,6 +13,9 @@
 
 #### Frontend
 - JavaScript
+<p align="center">
+<img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/javascript.png alt="javascript"/>
+</p>
 - HTML5
 - CSS
 
