@@ -14,7 +14,7 @@
 #### Frontend
 - JavaScript
 <p align="center">
-<img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/javascript.png alt="javascript"/>
+<img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/javascript.png alt="javascript" width="60px" height="60px"/>
 </p>
 - HTML5
 - CSS
