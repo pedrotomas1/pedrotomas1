@@ -11,7 +11,7 @@
 
 <div align="left">
 
-  <h2>Technologies I Know and I'm learning</h2>
+  <h2>Technologies I know</h2>
   <h4> Backend</h4>
   <p>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/java.png alt="java" width="60px" height="60px"/>
