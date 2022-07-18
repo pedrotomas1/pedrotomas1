@@ -16,6 +16,7 @@
   <h4> Backend</h4>
   <p>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/java.png alt="java" width="60px" height="60px"/>
+    <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/groovy.png alt="groovy" width="60px" height="60px"/>
   </p>
 
   <h4>Frontend</h4>
@@ -24,6 +25,7 @@
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/javascript.png alt="javascript" width="60px" height="60px"/>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/html5.png alt="html5" width="60px" height="60px"/>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/css.png alt="css" width="60px" height="60px"/>
+    <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/react.png alt="react" width="60px" height="60px"/>
   </p>
 
 
@@ -36,6 +38,8 @@
   <p>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/git.png alt="git" width="60px" height="60px"/>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/spring.png alt="spring" width="60px" height="60px"/>
+    <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/jenkins.png alt="jenkins" width="60px" height="60px"/>
+    <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/docker.png alt="docker" width="60px" height="60px"/>
   </p>
 
 </div>
