@@ -26,6 +26,7 @@
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/html5.png alt="html5" width="60px" height="60px"/>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/css.png alt="css" width="60px" height="60px"/>
     <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/react.png alt="react" width="60px" height="60px"/>
+    <img src=https://github.com/pedrotomas1/pedrotomas1/blob/master/icons/typescript.png alt="typescript" width="60px" height="60px"/>
   </p>
 
 
